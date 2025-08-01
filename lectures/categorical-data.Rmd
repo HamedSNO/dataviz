@@ -2,8 +2,6 @@
 title: "Categorical Data"
 subtitle: "Data Visualization"
 author: 
-- "Johan Larsson"
-- "Behnaz Pirzamanbein"
 institute: "The Department of Statistics, Lund University"
 date: ""
 bibliography: "assets/references.bib"
