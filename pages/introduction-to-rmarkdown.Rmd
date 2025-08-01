@@ -1,9 +1,6 @@
 ---
 title: "Introduction to R Markdown"
 subtitle: "Data Visualization"
-author: 
-- "Johan Larsson"
-- "Behnaz Pirzamanbein"
 affiliation: "Department of Statistics, Lund University"
 date: "`r Sys.Date()`"
 papersize: a4
